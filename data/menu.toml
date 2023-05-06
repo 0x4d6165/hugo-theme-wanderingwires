@@ -1,5 +1,5 @@
 [[entries]]
-title = "info"
+title = "<h2>info<h2/>"
 
   [[entries.entries]]
   title = "the blog and homepage of some weird robot trans girl. 0x4d6165 or Mae or Scout, it/she pronouns :3 🏳️‍⚧️"
@@ -21,7 +21,7 @@ title = "info"
 
 
 [[entries]]
-title = "all posts"
+title = "<h3>all posts</h3>"
 
   [entries.post_list]
   limit = 5
