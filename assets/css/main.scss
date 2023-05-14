@@ -17,6 +17,12 @@ body {
   overflow-wrap: break-word;
 }
 
+body {
+    background: url("/stars.gif") center center repeat;
+    // background-size: 2em;
+}
+
+
 .post-meta { text-align: right; }
 
 h1 { font-family: "PressStart2P", "Bitstream Vera Serif", serif;}
